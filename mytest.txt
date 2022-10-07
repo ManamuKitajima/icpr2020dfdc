@@ -1,1 +1,11 @@
-Hellp
+Test 2022 10/07
+1. projectをFork
+2. git bashを開く
+3. git clone forkプロジェクトのリンク
+4. git branch branch名
+5. git checkout branch名
+
+変更を行ったら git statusで確認
+git add file名
+git commit -m "comment"
+git push origin branch名
